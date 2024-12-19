@@ -1,25 +1,25 @@
 ![Hello, I'm Ash](https://64.media.tumblr.com/4bc0b51a1f617b7394af8209ddaa8c08/769d452331203517-f9/s2048x3072/ba0357e12ab838f63050cd21ec49780d272ab98e.png)
 
 
-<p align="center"><b>Student at Turing School of Software & Design for Front-End Development</b></p>
+<p align="center"><b>UX Designer and Software Engineer</b></p>
 
 
 
 <div align='center'>
 
-  <a href="https://www.linkedin.com/in/ashlee-webb-0b592199/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+  <a href="https://www.linkedin.com/in/ashleeharville/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
-  <a href="mailto:ashlee.webb.18@gmail.com">
-    ![ashlee.webb.18@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        
+  <a href="mailto:ashlee.a.harville@gmail.com">
+    ![ashlee.a.harville@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        
   </a>
   
 </div>
 
 <div align="center">
-  <a href="https://github.com/ashleeawebb/github-readme-stats">
+  <a href="https://github.com/ashleeaubree/github-readme-stats">
     <img alt="Ash's GitHub stats" height="125em" src="https://github-readme-stats.vercel.app/api?username=ashleeawebb&theme=gotham&show_icons=true" />
   </a>
-  <a href="https://github.com/ashleeawebb/github-readme-stats">
+  <a href="https://github.com/ashleeaubree/github-readme-stats">
     <img alt="Ash's Top Langs" height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleeawebb&theme=gotham&layout=compact" />
   </a>
 </div>
@@ -79,7 +79,7 @@
 
 
 <!--
-**AshleeAWebb/AshleeAWebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AshleeAubree/AshleeAubree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
